@@ -4,7 +4,6 @@ const pages = [
     children: [
       { pathname: '/getting-started/installation' },
       { pathname: '/getting-started/faq', title: 'FAQs' },
-
     ],
   },
 

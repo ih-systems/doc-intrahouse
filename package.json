@@ -155,7 +155,7 @@
     "next-transpile-modules": "^2.3.1",
     "notistack": "^0.8.6",
     "nyc": "^13.0.0",
-    "postcss": "^7.0.0",
+    "postcss": "^8.2.10",
     "prettier": "^1.8.2",
     "prop-types": "^15.7.2",
     "puppeteer": "^1.5.0",
